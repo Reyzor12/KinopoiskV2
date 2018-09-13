@@ -1,4 +1,4 @@
-package ru.reyzor.kinopoiskv2.db.repository;
+package ru.reyzor.kinopoiskv2.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import ru.reyzor.kinopoiskv2.db.entity.Genre;
