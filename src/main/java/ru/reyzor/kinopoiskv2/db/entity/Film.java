@@ -20,7 +20,7 @@ import java.util.List;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class Films {
+public class Film {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id")
